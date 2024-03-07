@@ -1,3 +1,3 @@
 # manish_repos
 first repository
-author-manish
+author-manish dahiya,manish kumar
